@@ -1,0 +1,16 @@
+notes for trading
+
+252 trading days in a year
+
+scored on:
+mean return - 0.1 \* StdDev(mean return)
+
+    StdDev(mean return) =
+    1. calculate return for each day,
+    2. calculate mean return
+    3. calculate deviation from the mean for each data point,
+    4. square the deviations
+    5. calculate the variance which is sum of squared deviations / N
+    6. square root variance
+
+    StdDev(mean return) is a measure of volitility in our strategy, as high differences in daily return are squared, they have a significantly higher impact on StdDev
