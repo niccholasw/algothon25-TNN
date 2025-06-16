@@ -1,0 +1,115 @@
+Financial Instrument Analysis Report
+==================================================
+
+Stable Assets (Low Volatility):
+Asset 1, Asset 2, Asset 6, Asset 14, Asset 16, Asset 20, Asset 21, Asset 25, Asset 39, Asset 40, Asset 41, Asset 46, Asset 49
+
+Volatile Assets (High Volatility):
+Asset 3, Asset 9, Asset 10, Asset 12, Asset 15, Asset 23, Asset 28, Asset 29, Asset 30, Asset 33, Asset 34, Asset 38, Asset 42
+
+Volatility Metrics:
+Asset 1     0.072283
+Asset 2     0.093393
+Asset 3     0.202480
+Asset 4     0.181917
+Asset 5     0.107337
+Asset 6     0.089548
+Asset 7     0.183092
+Asset 8     0.176441
+Asset 9     0.220658
+Asset 10    0.203894
+Asset 11    0.193233
+Asset 12    0.205002
+Asset 13    0.175571
+Asset 14    0.096647
+Asset 15    0.194750
+Asset 16    0.086844
+Asset 17    0.150967
+Asset 18    0.146772
+Asset 19    0.170072
+Asset 20    0.081057
+Asset 21    0.077628
+Asset 22    0.129508
+Asset 23    0.210439
+Asset 24    0.153718
+Asset 25    0.087816
+Asset 26    0.154562
+Asset 27    0.140141
+Asset 28    0.206823
+Asset 29    0.193592
+Asset 30    0.215584
+Asset 31    0.129747
+Asset 32    0.125114
+Asset 33    0.209026
+Asset 34    0.196973
+Asset 35    0.138580
+Asset 36    0.154293
+Asset 37    0.118445
+Asset 38    0.221308
+Asset 39    0.067435
+Asset 40    0.082426
+Asset 41    0.095202
+Asset 42    0.194484
+Asset 43    0.183423
+Asset 44    0.190590
+Asset 45    0.100889
+Asset 46    0.076974
+Asset 47    0.158727
+Asset 48    0.147624
+Asset 49    0.084400
+Asset 50    0.122073
+
+Average Return Metrics:
+Asset 1    -0.015552
+Asset 2    -0.099997
+Asset 3    -0.099700
+Asset 4    -0.014365
+Asset 5    -0.146829
+Asset 6     0.008724
+Asset 7    -0.230782
+Asset 8     0.036429
+Asset 9     0.003536
+Asset 10   -0.020929
+Asset 11    0.052295
+Asset 12    0.094072
+Asset 13    0.099541
+Asset 14   -0.002335
+Asset 15    0.053840
+Asset 16    0.010204
+Asset 17   -0.074867
+Asset 18    0.138332
+Asset 19    0.028297
+Asset 20   -0.034350
+Asset 21   -0.050121
+Asset 22    0.063959
+Asset 23    0.103407
+Asset 24    0.138964
+Asset 25    0.032977
+Asset 26   -0.119750
+Asset 27    0.108754
+Asset 28    0.006766
+Asset 29    0.024502
+Asset 30    0.144431
+Asset 31   -0.071811
+Asset 32    0.050953
+Asset 33    0.074252
+Asset 34   -0.188869
+Asset 35    0.029915
+Asset 36   -0.023197
+Asset 37    0.053352
+Asset 38   -0.052063
+Asset 39   -0.007046
+Asset 40    0.030920
+Asset 41    0.006825
+Asset 42    0.072677
+Asset 43    0.113880
+Asset 44   -0.043511
+Asset 45    0.000362
+Asset 46    0.029182
+Asset 47    0.075567
+Asset 48   -0.131290
+Asset 49    0.022777
+Asset 50    0.054095
+
+Correlation Analysis:
+See correlation matrix plot for details

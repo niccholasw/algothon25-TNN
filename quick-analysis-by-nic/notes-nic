@@ -14,3 +14,7 @@ mean return - 0.1 \* StdDev(mean return)
     6. square root variance
 
     StdDev(mean return) is a measure of volitility in our strategy, as high differences in daily return are squared, they have a significantly higher impact on StdDev
+
+
+ideas from Nic
+ - Trading using a mean price over x time period (for example 1 week or 1 month average) ie dollar cost averaging
